@@ -1,1 +1,10 @@
 theme: jekyll-theme-tactile
+prose:
+  siteurl: 'http://andyzickler.github.io/jekyll_dry_run/'
+  # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
